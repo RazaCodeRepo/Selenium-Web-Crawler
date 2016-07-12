@@ -8,6 +8,6 @@ The scraper has the ability to fill-out and submit a search form through Javascr
 web pages and finally format and store all the scraped data into an Excel file.
 
 A demo video showing the scraper in action can be found here:
-
+https://youtu.be/bQ-OZ7O7_ak
 
 A sample Excel file (output.xls) is committed in the repository to show the scrapped data from one scrapping run.
